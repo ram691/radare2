@@ -1,0 +1,7 @@
+# PatcherZ Development Checklist
+- [x] Rename executable to `patcherz`
+- [ ] Verify project builds successfully
+- [ ] Test all key features (disassembling, patching, etc.)
+- [ ] Write documentation
+- [ ] Push changes to the repository
+- [ ] Run final tests and confirm tool usability
